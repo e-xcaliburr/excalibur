@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @e-xcaliburr
 - 👀 I’m interested in learning code
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and Swift
 - 💞️ I’m looking to collaborate on who wants to help me
 - 📫 How to reach me you can send me a dm/pm on react to this "readme" message :)
 
